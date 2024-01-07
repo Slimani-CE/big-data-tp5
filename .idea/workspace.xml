@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e121303-a19b-4bb8-84b7-eb6f563cbfee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slimani/exercice2/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="7e121303-a19b-4bb8-84b7-eb6f563cbfee" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +50,7 @@
       <recent name="C:\Big Data\TP5_BIGDATA\assets" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task3">
+  <component name="RunManager" selected="Application.com.slimani.exercice2.Task1">
     <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.slimani.exercice1.Task1" />
       <module name="TP5_BIGDATA" />
@@ -123,9 +118,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.com.slimani.exercice2.Task2" />
         <item itemvalue="Application.com.slimani.exercice2.Task1" />
+        <item itemvalue="Application.com.slimani.exercice2.Task2" />
+        <item itemvalue="Application.Task3" />
         <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Task1" />
       </list>
@@ -139,7 +134,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1704648228880</updated>
-      <workItem from="1704648230105" duration="5712000" />
+      <workItem from="1704648230105" duration="6100000" />
     </task>
     <servers />
   </component>
