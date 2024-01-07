@@ -1,0 +1,9 @@
+Id,titre,description,service,date
+1,"Problème d'imprimante","L'imprimante du service comptabilité ne fonctionne pas",Comptabilité,2023-12-15
+2,"Erreur de connexion","Les utilisateurs ne peuvent pas se connecter au réseau",IT,2023-12-17
+3,"Panne de machine","La machine de production 3 est hors service",Production,2023-12-18
+4,"Problème de logiciel","Le logiciel de gestion des stocks plante fréquemment",Logistique,2023-12-20
+5,"Besoin de maintenance","Le système de climatisation doit être réparé",Maintenance,2023-12-21
+6,"Problème d'imprimante","L'imprimante du service comptabilité ne fonctionne pas",Comptabilité,2023-12-15
+7,"Erreur de connexion","Les utilisateurs ne peuvent pas se connecter au réseau",IT,2023-12-17
+8,"Panne de machine","La machine de production 3 est hors service",Production,2023-12-18
