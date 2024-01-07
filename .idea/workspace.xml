@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e121303-a19b-4bb8-84b7-eb6f563cbfee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slimani/exercice2/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slimani/exercice2/Task3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/slimani/exercice2/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/slimani/exercice2/Task1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +55,7 @@
       <recent name="C:\Big Data\TP5_BIGDATA\assets" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.slimani.exercice2.Task2">
+  <component name="RunManager" selected="Application.Task3">
     <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.slimani.exercice1.Task1" />
       <module name="TP5_BIGDATA" />
@@ -79,6 +75,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.slimani.exercice1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.slimani.exercice2.Task3" />
+      <module name="TP5_BIGDATA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.slimani.exercice2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,6 +123,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task3" />
         <item itemvalue="Application.com.slimani.exercice2.Task2" />
         <item itemvalue="Application.com.slimani.exercice2.Task1" />
         <item itemvalue="Application.Task2" />
@@ -129,7 +139,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1704648228880</updated>
-      <workItem from="1704648230105" duration="3692000" />
+      <workItem from="1704648230105" duration="5712000" />
     </task>
     <servers />
   </component>
